@@ -1,4 +1,8 @@
 package urjc.isi.pruebasMockito;
+<<<<<<< HEAD
+=======
+
+>>>>>>> ba22a4ce22a1667b7af00f65ecf055b9edbe46dd
 import static spark.Spark.*;
 
 import spark.Request;
